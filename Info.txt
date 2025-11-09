@@ -1,2 +1,3 @@
 This is practice repo
 This file contains information
+This is merge conflicts1
